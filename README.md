@@ -1,4 +1,4 @@
-# Tetris-on-C-with-WinBGIm-graphics.h-
+# Tetris-in-C-with-WinBGIm-graphics.h-
 Tetris on C with WinBGIm (graphics.h)
 
 RUS:
