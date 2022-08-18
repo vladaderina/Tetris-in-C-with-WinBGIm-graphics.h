@@ -1,5 +1,5 @@
-# Tetris-in-C-with-WinBGIm-graphics.h-
-Tetris on C with WinBGIm (graphics.h)
+# Tetris-in-C-with-WinBGIm-graphics.h
+Tetris in C with WinBGIm (graphics.h)
 
 RUS:
 После загрузки распакуйте все изображения из папки "images" в папку с кодом.
