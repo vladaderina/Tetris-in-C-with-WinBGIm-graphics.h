@@ -11,4 +11,4 @@ After downloading, unpack all images from the "images" folder to the folder with
   src="/images/main.jpg"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 20 auto; max-width: 500px">
+  style="display: inline-block; margin: 20 auto; max-width: 0px">
