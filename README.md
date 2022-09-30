@@ -9,3 +9,5 @@ After downloading, unpack all images from the "images" folder to the folder with
 
 <img src = "/images/main.jpg">
 <img src = "/images/rules1.jpg">
+<img src = "/images/rules2.jpg">
+<img src = "/images/rules3.jpg">
