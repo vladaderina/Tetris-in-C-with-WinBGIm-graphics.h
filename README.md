@@ -8,7 +8,4 @@ ENG:
 After downloading, unpack all images from the "images" folder to the folder with the code.
 
 <img
-  src="/images/main.jpg"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 0px">
+  src = "/images/main.jpg">
