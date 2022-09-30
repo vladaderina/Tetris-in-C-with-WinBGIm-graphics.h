@@ -7,4 +7,8 @@ RUS:
 ENG:
 After downloading, unpack all images from the "images" folder to the folder with the code.
 
-![My Image](images/main.jpg)
+<img
+  src="/path/images/main.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
