@@ -7,6 +7,4 @@ RUS:
 ENG:
 After downloading, unpack all images from the "images" folder to the folder with the code.
 
-<img
-  src = "/images/main.jpg"
->
+<img src = "/images/main.jpg">
